@@ -1,4 +1,8 @@
 export default function comments(state = [], action) {
-  return state;
+  // switch (action.type) {
+  //   case
+  //   default:
+  //     return state;
+  // }
 }
 
