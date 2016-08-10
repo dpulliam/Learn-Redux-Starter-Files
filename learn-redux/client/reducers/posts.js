@@ -6,5 +6,6 @@
 export default function posts(state = [], action) {
   console.log("The post will chagne");
   console.log(state, action);
+  return state;
 }
 
